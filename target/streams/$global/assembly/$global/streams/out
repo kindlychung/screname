@@ -4,7 +4,7 @@
 [0m[[0minfo[0m] [0mMerging files...[0m
 [0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to a file[0m
-[0m[[0minfo[0m] [0mSHA-1: 6d64ba89f61e61b1cc0edf35f2b357fe18ef0f55[0m
+[0m[[0minfo[0m] [0mSHA-1: b4226147c2c381a03197b005963a25aac1fb23f8[0m
 [0m[[0minfo[0m] [0mPackaging /Users/kaiyin/personal_config_bin_files/workspace/screname/target/scala-2.11/screname-assembly-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	FileRenameByPattern$$anonfun$1.class[0m
@@ -39,6 +39,10 @@
 [0m[[0mdebug[0m] [0m	  /Users/kaiyin/personal_config_bin_files/workspace/screname/target/streams/$global/assemblyOption/$global/streams/assembly/a77f9d40594624fba7206a5bb749998c489665fd_dir/Main$delayedInit$body.class[0m
 [0m[[0mdebug[0m] [0m	Main.class[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiyin/personal_config_bin_files/workspace/screname/target/streams/$global/assemblyOption/$global/streams/assembly/a77f9d40594624fba7206a5bb749998c489665fd_dir/Main.class[0m
+[0m[[0mdebug[0m] [0m	TestJson$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaiyin/personal_config_bin_files/workspace/screname/target/streams/$global/assemblyOption/$global/streams/assembly/a77f9d40594624fba7206a5bb749998c489665fd_dir/TestJson$.class[0m
+[0m[[0mdebug[0m] [0m	TestJson.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaiyin/personal_config_bin_files/workspace/screname/target/streams/$global/assemblyOption/$global/streams/assembly/a77f9d40594624fba7206a5bb749998c489665fd_dir/TestJson.class[0m
 [0m[[0mdebug[0m] [0m	library.properties[0m
 [0m[[0mdebug[0m] [0m	  /Users/kaiyin/personal_config_bin_files/workspace/screname/target/streams/$global/assemblyOption/$global/streams/assembly/d23cd9508cf1f4b3679a7e253cf9b8cadc9e27a2_f75e7acabd57b213d6f61483240286c07213ec0e/library.properties[0m
 [0m[[0mdebug[0m] [0m	rootdoc.txt[0m
