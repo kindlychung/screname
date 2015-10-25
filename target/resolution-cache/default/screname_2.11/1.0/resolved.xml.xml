@@ -4,7 +4,7 @@
 		module="screname_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151025203320"
+		publication="20151025205504"
 	>
 		<description>
 		screname
@@ -34,7 +34,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.7" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.7" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="org.specs2" name="specs2-core_2.11" rev="3.6.4" conf="test->default(compile)"/>
 		<dependency org="com.novocode" name="junit-interface" rev="0.11" conf="test->default(compile)"/>
 		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.2.4" conf="test->default(compile)"/>
 	</dependencies>

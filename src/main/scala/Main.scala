@@ -1,5 +1,6 @@
 import scala.collection.mutable.Map
 
+
 object Main extends App {
   val usage =
     """
@@ -7,9 +8,9 @@ object Main extends App {
       |
       |Usage:
       |
-      |  screname [-a] [-t] -s search_pattern -r replace_pattern filenames
+      |  java -jar screname-assembly-1.0.jar [-a] [-t] -s search_pattern -r replace_pattern filenames
       |
-      |Type screname and return to print this message.
+      |Type `java -jar screname-assembly-1.0.jar` and return to print this message.
     """.stripMargin
 
   // Print usage and exit
