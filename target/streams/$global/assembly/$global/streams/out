@@ -4,7 +4,7 @@
 [0m[[0minfo[0m] [0mMerging files...[0m
 [0m[[33mwarn[0m] [0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[33mwarn[0m] [0mStrategy 'discard' was applied to a file[0m
-[0m[[0minfo[0m] [0mSHA-1: ac1f57b4e6937984030473927dac1538ef48ae09[0m
+[0m[[0minfo[0m] [0mSHA-1: e549bdc88d078ef59444cbed46a6abadb33ffab5[0m
 [0m[[0minfo[0m] [0mPackaging /Users/kaiyin/personal_config_bin_files/workspace/screname/target/scala-2.11/screname-assembly-1.0.jar ...[0m
 [0m[[0mdebug[0m] [0mInput file mappings:[0m
 [0m[[0mdebug[0m] [0m	FileRenameByPattern$$anonfun$1.class[0m

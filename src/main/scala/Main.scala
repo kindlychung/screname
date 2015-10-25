@@ -1,6 +1,5 @@
 import scala.collection.mutable.Map
 
-
 object Main extends App {
   val usage =
     """
